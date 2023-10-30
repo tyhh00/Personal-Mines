@@ -15,20 +15,19 @@
   </p>
 </div>
 
+## About The Project
+<img src="images/personalmines.png" alt="ProjectShowcase" width="480" height="254">
+Its through this project I had a massive breakthrough in:
+* <a href="#readme-blockplacementalgorithm">Massive Block Placement Algorithm</a>
+* Grid Creation and Manipulation Algorithm
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Dependencies
 * Modules Framework by <a href="https://github.com/despawningbone">despawningbone</a> (Currently Unreleased)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## About The Project
-<img src="images/personalmines.png" alt="ProjectShowcase" width="480" height="254">
-Its through this project I had a massive breakthrough in 
-* <a href="#readme-blockplacementalgorithm">Massive Block Placement Algorithm</a>
-* Grid Creation and Manipulation Algorithm
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Features
 * Mine Expansions
