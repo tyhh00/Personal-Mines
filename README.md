@@ -13,3 +13,32 @@
     <br />
   </p>
 </div>
+
+<!-- ABOUT THE PROJECT -->
+## Dependencies
+* Modules Framework by <a href="https://github.com/despawningbone">despawningbone</a> (Currently Unreleased)
+* PlaceholderAPI 2.9.1
+* Spigot 1.12.2
+* Vault
+* TokenEnchant
+* HolographicDisplays
+* WorldGuard
+* FAWE
+* BarAPI
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://vortexnetwork.me)
+This module is highly achieved in areas such as Mass Block Placement Algorithms and Grid Creation and Manipulation
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+[product-screenshot]: images/personalmines.png
