@@ -43,9 +43,10 @@
 ## Massive Block Placement Algorithm
 A couple of techniques were used to solve the problem of placing over 1,000,000 Blocks per private mine
 * PMine Creation Queue system (Max mines generated/s depending on TPS)
-* Schematics to FAWE Fast Print Mode
+* Schematics to FAWE Fast Print Technique
+* Mine Blocks Reset via FAWE Fast Print Technique
 <details>
-    <summary>FAWE Fast Print Mode</summary>
+    <summary>FAWE Fast Print Technique</summary>
     <code>
 FaweQueue queue = FaweAPI.createQueue(
 FaweAPI.getWorld(world.getBlockAt(mineCenterX, 128, mineCenterZ).getWorld().getName()), false);
