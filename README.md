@@ -17,7 +17,7 @@
 
 ## About The Project
 <img src="images/personalmines.png" alt="ProjectShowcase" width="480" height="254">
-</bold>Project Accomplishments</bold>
+</b>Project Accomplishments</b>
 
 * <a href="#readme-blockplacementalgorithm">Massive Block Placement Algorithm</a>
 * Grid Creation and Manipulation Algorithm
