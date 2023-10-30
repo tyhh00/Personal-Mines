@@ -18,8 +18,8 @@
 ## About The Project
 <img src="images/personalmines.png" alt="ProjectShowcase" width="480" height="254">
 Its through this project I had a massive breakthrough in:</br>
-* <a href="#readme-blockplacementalgorithm">Massive Block Placement Algorithm</a>
-* Grid Creation and Manipulation Algorithm
+- <a href="#readme-blockplacementalgorithm">Massive Block Placement Algorithm</a>
+- Grid Creation and Manipulation Algorithm
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
