@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://vortexnetwork.me">
-    <img src="images/LogoNetwork.png" alt="Logo" width="80" height="80">
+    <img src="images/LogoNetwork.png" alt="Logo" width="272.5" height="56">
   </a>
 
   <h3 align="center">Personal Mines Module</h3>
