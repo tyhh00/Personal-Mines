@@ -37,6 +37,7 @@
 * Autominer
 * Members System
 * Settings & Boosters
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a name="readme-blockplacementalgorithm"></a>
 ## Massive Block Placement Algorithm
@@ -67,3 +68,4 @@ for (int x = getMineCenterX() - getXZRadius(); x <= getMineCenterX() + getXZRadi
   }
 }</code>
 </details>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
